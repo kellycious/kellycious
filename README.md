@@ -1,5 +1,5 @@
 - 👀 interested in computer science and finance
-- 🌱 currently learning C
+- 🌱 currently learning C, enrolled @ 42, Paris
 - 📫 reach me: https://instagram.com/kellykph
 
 <!---
