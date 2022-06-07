@@ -1,5 +1,5 @@
 - 👀 interested in computer science and finance
-- 🌱 currently learning C/C++
+- 🌱 currently learning C
 - 📫 reach me: https://instagram.com/kellykph
 
 <!---
