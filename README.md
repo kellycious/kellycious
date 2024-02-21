@@ -1,6 +1,6 @@
 - 👀 interested in computer science and fintech
-- 💻 42 Student: Shell, C, C++, Network/Admin sys
-- 🌱 currently learning about Docker and improving VM setup skills
+- 💻 42 Student: Shell, C, C++, Python, JS, Network/Admin sys
+- 🌱 currently implementing a pong tournament online
 
 <!---
 kellycious/kellycious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
